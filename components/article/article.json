@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_article_articles",
+  "info": {
+    "name": "article",
+    "icon": "angle-double-up"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "richtext"
+    }
+  }
+}

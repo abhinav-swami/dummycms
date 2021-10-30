@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "articles_s",
+  "info": {
+    "name": "articles "
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "article": {
+      "type": "component",
+      "repeatable": false,
+      "component": "article.article"
+    }
+  }
+}

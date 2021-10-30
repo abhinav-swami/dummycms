@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_users_users",
+  "info": {
+    "name": "users",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "pwd": {
+      "type": "email"
+    },
+    "email_id": {
+      "type": "password"
+    }
+  }
+}
